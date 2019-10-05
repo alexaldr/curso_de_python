@@ -1,1 +1,6 @@
-# curso_de_python
+# Curso de Python
+
+_Em construção..._
+
+## Tarefas
+- [ ] Em construção...
