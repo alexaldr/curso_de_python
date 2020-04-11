@@ -1,21 +1,7 @@
 ![Python logo](https://www.python.org/static/community_logos/python-logo-generic.svg)
 # Curso de Python
 
-_Em construção..._
+Este curso foi desenvolvido para a Semana de Integração (2019) do Departamento de Ciência da Computação da Universidade Estadual de Montes Claros.
 
-## Tarefas a fazer
-- [ ] História do Python
-- [ ] Instalação
-- [ ] Tipos de dados
-- [ ] Variáveis
-- [ ] Operadores
-- [ ] Saída de dados
-- [ ] Entrada de dados
-- [ ] Estrutura de decisão (if)
-- [ ] Estrutura de repetição (for)
-- [ ] Estrutura de repetição (while)
-
-## Índice:
-* [teste](#curso-de-python)
-* [teste 2](##tarefas)
+Os arquivos aqui foram disponibilizados para que todos os participantes pudessem acompanhar o curso utilizando, principalmente, o Google Colab.
 
